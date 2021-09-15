@@ -1,6 +1,12 @@
 
 # go-getting-started
 
+
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/acharb/go-getting-started/tree/main)
+
+
+
+
 A barebones Go app, which can easily be deployed to Heroku.
 
 This application supports the [Getting Started with Go on Heroku](https://devcenter.heroku.com/articles/getting-started-with-go) article - check it out.
